@@ -240,6 +240,14 @@
   dependencies:
     "@chakra-ui/utils" "1.8.1"
 
+"@chakra-ui/icons@^1.0.14":
+  version "1.0.14"
+  resolved "https://registry.nlark.com/@chakra-ui/icons/download/@chakra-ui/icons-1.0.14.tgz#8d402074dabdb410af36e6f1af047bb186973053"
+  integrity sha1-jUAgdNq9tBCvNubxrwR7sYaXMFM=
+  dependencies:
+    "@chakra-ui/icon" "1.1.10"
+    "@types/react" "^17.0.0"
+
 "@chakra-ui/image@1.0.17":
   version "1.0.17"
   resolved "https://registry.nlark.com/@chakra-ui/image/download/@chakra-ui/image-1.0.17.tgz#b5c7fd564af1d23303eafe1d443c7dbecfd4cf31"
@@ -899,7 +907,7 @@
   resolved "https://registry.nlark.com/@types/prop-types/download/@types/prop-types-15.7.4.tgz#fcf7205c25dff795ee79af1e30da2c9790808f11"
   integrity sha1-/PcgXCXf95Xuea8eMNosl5CAjxE=
 
-"@types/react@17.0.15":
+"@types/react@17.0.15", "@types/react@^17.0.0":
   version "17.0.15"
   resolved "https://registry.nlark.com/@types/react/download/@types/react-17.0.15.tgz#c7533dc38025677e312606502df7656a6ea626d0"
   integrity sha1-x1M9w4AlZ34xJgZQLfdlam6mJtA=
